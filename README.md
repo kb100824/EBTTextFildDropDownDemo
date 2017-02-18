@@ -2,9 +2,7 @@
 
 #使用pod指令把类库集成到项目中:
 ```
-<pre>
   pod 'EBTTextFiledDropDown'
-<pre>
 ```
 
 
@@ -23,11 +21,6 @@
 
 </code>
 </pre>
-
-
-
-
-
 
 
 #效果演示图
