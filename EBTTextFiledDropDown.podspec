@@ -90,8 +90,8 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "EBTTextFiledDropDown/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
-
+  #s.exclude_files = "Classes/Exclude"
+  s.resources='EBTTextFiledDropDown/*.{xib}'
   # s.public_header_files = "Classes/**/*.h"
 
 
